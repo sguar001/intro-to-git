@@ -10,4 +10,4 @@
 # Git Repository 
 * Where all our snapshots are stored
 
-# 
+# git commit -m "Message goes here"
